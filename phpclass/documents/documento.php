@@ -8,7 +8,7 @@ $csv = new Csv();
 $arquivo = $_FILES['csv'];
 
 if (!empty($arquivo) && $arquivo['type'] == 'text/csv') {
-    $uploadfile = $uploaddir . $_FILES['csv'];
+
     $caminho_atual = (__DIR__);
 
     $nome_arquivo = rand().'.csv';

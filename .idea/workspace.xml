@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29227b5c-9853-4784-b771-1b9a308771d1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpclass/documents/documento.php" beforeDir="false" afterPath="$PROJECT_DIR$/phpclass/documents/documento.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,11 +90,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="php" value="1" />
           <entry key="sql" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="PHP" value="1" />
           <entry key="SQL" value="1" />
         </counts>
       </usages-collector>
@@ -122,6 +123,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/phpclass/documents/documento.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phpclass/documents/Csv.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -131,7 +141,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phpclass/clients/Clientes.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -193,7 +203,6 @@
         <option value="$PROJECT_DIR$/phpclass/documents/Clientes.php" />
         <option value="$PROJECT_DIR$/phpclass/db/Conn.php" />
         <option value="$PROJECT_DIR$/html_includs/footer.php" />
-        <option value="$PROJECT_DIR$/phpclass/documents/documento.php" />
         <option value="$PROJECT_DIR$/assets/js/jquery.js" />
         <option value="$PROJECT_DIR$/assets/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/html_includs/header.php" />
@@ -204,6 +213,7 @@
         <option value="$PROJECT_DIR$/sql.sql" />
         <option value="$PROJECT_DIR$/lista.php" />
         <option value="$PROJECT_DIR$/phpclass/clients/Clientes.php" />
+        <option value="$PROJECT_DIR$/phpclass/documents/documento.php" />
       </list>
     </option>
   </component>
@@ -234,6 +244,17 @@
             <path>
               <item name="UploadCsvPhpPuro" type="b2602c69:ProjectViewProjectNode" />
               <item name="UploadCsvPhpPuro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UploadCsvPhpPuro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UploadCsvPhpPuro" type="462c0819:PsiDirectoryNode" />
+              <item name="phpclass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UploadCsvPhpPuro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UploadCsvPhpPuro" type="462c0819:PsiDirectoryNode" />
+              <item name="phpclass" type="462c0819:PsiDirectoryNode" />
+              <item name="documents" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -281,18 +302,18 @@
       <workItem from="1537715561864" duration="16350000" />
       <workItem from="1537733875007" duration="178000" />
       <workItem from="1537734200044" duration="8706000" />
-      <workItem from="1537743019390" duration="3355000" />
+      <workItem from="1537743019390" duration="3579000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32197000" />
+    <option name="totallyTimeSpent" value="32421000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19393456" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19393456" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -305,7 +326,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26916802" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26916802" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -371,13 +392,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/phpclass/documents/1479771975.csv" />
-    <entry file="file://$PROJECT_DIR$/phpclass/documents/documento.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="26" selection-start-line="20" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -424,6 +438,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpclass/documents/documento.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
