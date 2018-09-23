@@ -9,7 +9,7 @@ CREATE TABLE `banco`.`dados` (
   `municipio` VARCHAR(30) NULL,
   `uf` VARCHAR(2) NULL,
   `telefone` INT(11) NULL,
-  `cnpj` INT(14) NULL,
+  `cnpj` BIGINT(20) NULL,
   `valor` DOUBLE(13,2) NULL,
   `vencimento` DATE NULL,
   PRIMARY KEY (`id`));
