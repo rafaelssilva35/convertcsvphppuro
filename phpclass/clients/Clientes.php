@@ -1,6 +1,6 @@
 <?php
 
-include_once('../db/Conn.php');
+//include_once('../db/Conn.php');
 
 class Clientes
 {
