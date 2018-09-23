@@ -108,7 +108,7 @@ class Csv
         $bind->bindParam(':uf', $uf, PDO::PARAM_STR);
         $bind->bindParam(':telefone', $telefone, PDO::PARAM_STR);
         $bind->bindParam(':cnpj', $cnpj, PDO::PARAM_INT);
-        $bind->bindParam(':valor', ($valor),PDO::PARAM_STR_CHAR);
+        $bind->bindParam(':valor', ($valor));
         $bind->bindParam(':vencimento', $vencimento);
 
         return $bind;
